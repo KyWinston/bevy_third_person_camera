@@ -17,7 +17,6 @@ exclude = ["assets/*", "migrationGuides/*"]
 bevy = { version = "0.15.0", default-features = false, features = [
     "bevy_window",
 ] }
-# wasm-bindgen = "0.2.95"
 
 [dev-dependencies]
 bevy = "0.15.0"
